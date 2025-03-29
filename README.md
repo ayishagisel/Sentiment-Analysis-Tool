@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis Tool
 
 A simple sentiment analysis tool that uses Hugging Face's transformers library to analyze the sentiment of text input. The tool provides both a command-line interface and a Streamlit web interface.
@@ -40,3 +41,7 @@ The web interface will open in your default browser. Enter any text in the input
 - Uses the `distilbert-base-uncased-finetuned-sst-2-english` model from Hugging Face
 - Built with Python 3.x
 - Dependencies: transformers, torch, streamlit 
+=======
+# Sentiment-Analysis-Tool
+A real-time sentiment analysis web app using DistilBERT and Streamlit that analyzes text sentiment with confidence scores and visual feedback.
+>>>>>>> origin/main
